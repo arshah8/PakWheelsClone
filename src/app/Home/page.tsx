@@ -6,7 +6,7 @@ import Feature from "../Components/Feature";
 export default function Home() {
   return (
    <div>
- <HeroSection />
+ <HeroSection/>
  <ContentSection/>
  <Feature/>
 </div>

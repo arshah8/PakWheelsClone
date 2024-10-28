@@ -7,6 +7,7 @@ import Footer from "./Components/Footer";
 
 
 
+
 const lato = Lato({
   weight: '400',
   subsets: ['latin'],
@@ -37,7 +38,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={`${lato.className} ${geistSans.variable} ${geistMono.variable} antialiased`}>
-        <Navbar />
+        <Navbar/>
         {children}
         <Footer/>
       </body>
