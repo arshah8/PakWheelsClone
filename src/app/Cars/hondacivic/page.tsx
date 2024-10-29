@@ -5,7 +5,7 @@ export default function hondacity (){
     return(
         <div className="grid grid-col-12 grid-row-12  justify-center w-full h-screen bg-zinc-100">
             <div className="col-span-8 row-span-8 pt-12">
-            <h1 className="font-bold text-3xl text-center text-black underline">Honda Civic 2024 Price in Palistan, Images, Reviews & Specs</h1>
+            <h1 className="font-bold text-3xl text-center text-black underline">Honda Civic 2024 Price in Pakistan, Images, Reviews & Specs</h1>
             
             <div className=" row-span-8 col-span-8 pl-[500px] pt-7 ">
             <Image
